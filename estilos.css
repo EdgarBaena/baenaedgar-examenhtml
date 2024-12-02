@@ -3,12 +3,13 @@ ul li{
 }
 
 header{
-    display: inline-flex;
+    display: flex;
 }
 
 footer{
     background-color: #285E67;
     display: flex;
+    color: white;
 }
 
 button{
@@ -19,4 +20,8 @@ button{
 
 body{
     align-items: center;
+}
+
+nav ul{
+    display: flex;
 }
