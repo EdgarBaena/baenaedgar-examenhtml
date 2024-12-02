@@ -9,3 +9,9 @@ header{
 footer{
     background-color: #285E67;
 }
+
+button{
+    border-radius: 10px;
+    background-color: #285E67;
+    color: white;
+}
