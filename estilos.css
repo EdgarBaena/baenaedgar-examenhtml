@@ -1,0 +1,11 @@
+ul li{
+    list-style: none;
+}
+
+header{
+    display: inline-flex;
+}
+
+footer{
+    background-color: #285E67;
+}
