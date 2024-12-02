@@ -16,3 +16,7 @@ button{
     background-color: #285E67;
     color: white;
 }
+
+body{
+    align-items: center;
+}
