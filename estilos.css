@@ -14,5 +14,8 @@ button{
     border-radius: 10px;
     background-color: #285E67;
     color: white;
-    text-align: center;
+}
+
+main{
+    font-family: 'Times New Roman', Times, serif;
 }
