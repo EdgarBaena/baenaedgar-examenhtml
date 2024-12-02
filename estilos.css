@@ -8,14 +8,11 @@ header{
 
 footer{
     background-color: #285E67;
+    display: flex;
 }
 
 button{
     border-radius: 10px;
     background-color: #285E67;
     color: white;
-}
-
-main{
-    font-family: 'Times New Roman', Times, serif;
 }
